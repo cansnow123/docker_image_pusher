@@ -2,3 +2,5 @@
 docker.umami.is/umami-software/umami:mysql-latest
 #searxng
 searxng/searxng:latest
+#open webui
+ghcr.io/open-webui/open-webui:main
