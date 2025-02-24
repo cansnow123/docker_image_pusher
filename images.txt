@@ -4,3 +4,5 @@ docker.umami.is/umami-software/umami:mysql-latest
 searxng/searxng:latest
 #open webui
 ghcr.io/open-webui/open-webui:main
+#maxkb
+cr2.fit2cloud.com/1panel/maxkb:latest
