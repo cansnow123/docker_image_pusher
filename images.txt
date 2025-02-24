@@ -5,4 +5,4 @@ searxng/searxng:latest
 #open webui
 ghcr.io/open-webui/open-webui:main
 #maxkb
-cr2.fit2cloud.com/1panel/maxkb:latest
+registry.fit2cloud.com/maxkb/maxkb
