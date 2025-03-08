@@ -7,6 +7,6 @@ ghcr.io/open-webui/open-webui:main
 #maxkb
 registry.fit2cloud.com/maxkb/maxkb
 #shortcut
-hamwong233/shortcut-backend
-hamwong233/shortcut-admin-frontend
-hamwong233/shortcut-user-frontend
+docker.io/hamwong233/shortcut-backend
+docker.io/hamwong233/shortcut-admin-frontend
+docker.io/hamwong233/shortcut-user-frontend
