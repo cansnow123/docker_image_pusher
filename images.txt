@@ -10,3 +10,5 @@ registry.fit2cloud.com/maxkb/maxkb
 docker.io/hamwong233/shortcut-backend
 docker.io/hamwong233/shortcut-admin-frontend
 docker.io/hamwong233/shortcut-user-frontend
+#gitea
+gitea/gitea:latest
