@@ -6,9 +6,5 @@ searxng/searxng:latest
 ghcr.io/open-webui/open-webui:main
 #maxkb
 registry.fit2cloud.com/maxkb/maxkb
-#shortcut
-docker.io/hamwong233/shortcut-backend
-docker.io/hamwong233/shortcut-admin-frontend
-docker.io/hamwong233/shortcut-user-frontend
 #gitea
-gitea/gitea:latest
+docker.gitea.com/gitea:1.23.8
