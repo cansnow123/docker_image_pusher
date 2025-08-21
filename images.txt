@@ -3,4 +3,4 @@ docker.umami.is/umami-software/umami:mysql-latest
 #maxkb
 registry.fit2cloud.com/maxkb/maxkb
 #gitea
-docker.gitea.com/gitea:1.24.3
+docker.gitea.com/gitea:1.24.5
