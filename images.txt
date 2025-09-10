@@ -1,5 +1,5 @@
 #umami
-docker.umami.is/umami-software/umami:mysql-latest
+ghcr.io/umami-software/umami:mysql-latest
 #maxkb
 registry.fit2cloud.com/maxkb/maxkb
 #gitea
